@@ -2,8 +2,8 @@
 Changelog for package generate_parameter_library_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.3.0 (2026-07-24)
+------------------
 * Accept quotes in description and additional constraints (`#357 <https://github.com/PickNikRobotics/generate_parameter_library/issues/357>`_)
 * Contributors: Hugal31
 
